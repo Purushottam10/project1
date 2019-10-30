@@ -1,1 +1,1 @@
-# project1
+#This is a java based console application  
